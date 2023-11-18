@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About BrightAI</title>
+</head>
+<body>
+    <h1>About BrightAI</h1>
+
+    <p>Welcome to BrightAI, an innovative app designed to redefine your digital experience with the power of artificial intelligence.</p>
+
+    <h2>Our Mission</h2>
+    <p>At BrightAI, our mission is to harness the capabilities of AI to provide users with an unparalleled web browsing and content creation experience. We aim to make the digital world more accessible, efficient, and enjoyable for everyone.</p>
+
+    <h2>Features</h2>
+    <ul>
+        <li><strong>AI-Powered Web Browsing:</strong> Navigate the web with ease using our AI-driven browser, designed for optimal efficiency and user-friendly experience.</li>
+        <li><strong>Image Generation:</strong> Create stunning visuals and graphics with our advanced AI image generation tool, perfect for all your creative needs.</li>
+        <li><strong>AI Assistant:</strong> Get assistance on-the-go with our AI assistant, ready to help with your queries, manage tasks, and provide information.</li>
+    </ul>
+
+    <h2>Why Choose BrightAI?</h2>
+    <p>BrightAI stands out with its cutting-edge technology, user-centric design, and commitment to continuous improvement. Whether you're browsing the web, creating images, or seeking assistance, BrightAI is your reliable companion in the digital world.</p>
+
+    <h2>Contact Us</h2>
+    <p>Have questions or feedback? We'd love to hear from you! Contact us at <a href="mailto:info@digitaldynasty.io">info@digitaldynasty.io</a>.</p>
+</body>
+</html>
